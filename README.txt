@@ -3,8 +3,8 @@ The PDF file titled Predicting Text Difficulty contains the final report with on
 
 The source folder contains three ipynb files:
     predicting_text_difficulty_master.ipynb: contains the entirety of the code for the report along with the necessary code to create the 
-    visualizations as they are in the report. (libraries: pandas, numpy, matplotlib, nltk, sklearn, collections, scipy).  If you're 
-    just hoping to view the notebook (with visualizations), try this link:
+    visualizations as they are in the report. (libraries: pandas, numpy, matplotlib, nltk, sklearn, collections, scipy).  If you're just hoping to view the
+    notebook (with visualizations), try this link:
     https://nbviewer.org/github/mfzimolzak/Predicting-Text-Difficulty/blob/main/source/predicting_text_difficulty_master.ipynb
     
     predicting_text_difficulty_scratch.ipynb: contains scratch work used as a basis for the code master file (libraries: pandas, numpy, matplotlib, nltk,
