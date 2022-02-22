@@ -15,7 +15,7 @@ The source folder contains three ipynb files:
 
     visualization_scratch.ipynb: contains a few visualizations used for analysis (libraries: pandas, numpy,
     matplotlib).
-    https://nbviewer.jupyter.org/github/mfzimolzak/NBA2010s/blob/main/Source/scrap_notebook.ipynb
+    https://nbviewer.org/github/mfzimolzak/Predicting-Text-Difficulty/blob/main/source/visualization_scratch.ipynb
     
 
 The data.zip file contains three files that were used in analysis:
