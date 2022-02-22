@@ -58,4 +58,5 @@ The data.zip file contains three files that were used in analysis:
     
 To ensure that the notebooks run correctly within Jupyter, do the following:
     1. Create a new folder in Jupyter
-    2. Upload all files in the source folder and the data.zip file to the folder.  Each individual file should fall in the root folder.
+    2. Upload all files in the source folder and the data.zip file to the folder.  Each individual file should
+    fall in the root folder.
