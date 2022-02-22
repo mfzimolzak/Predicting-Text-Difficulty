@@ -2,6 +2,7 @@ The PDF file titled Predicting Text Difficulty contains the final report with on
 
 
 The source folder contains three ipynb files:
+
     predicting_text_difficulty_master.ipynb: contains the entirety of the code for the report along with the necessary code to create the 
     visualizations as they are in the report. (libraries: pandas, numpy, matplotlib, nltk, sklearn, collections, scipy).  If you're just hoping to view the
     notebook (with visualizations), try this link:
@@ -16,6 +17,7 @@ The source folder contains three ipynb files:
     
 
 The data.zip file contains three files that were used in analysis:
+
     WikiLarge_Train.csv: roughly 400k sentences in string format from an assortment of Wikipedia articles with labels.  0 indicates that a sentence does not need
     to be simplified while 1 indicates that a sentence does need to be simplified.
     
