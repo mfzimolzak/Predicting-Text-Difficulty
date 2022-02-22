@@ -3,19 +3,17 @@
 The PDF file titled Predicting Text Difficulty contains the final report with only the visualizations
 
 
-The Source folder contains three ipynb files:
+The source folder contains three ipynb files:
     predicting_text_difficulty_master.ipynb: contains the entirety of the code for the report along with the necessary code to create the 
-    visualizations as they are in the report. (libraries: pandas, numpy, altair, matplotlib, sklearn).  If you're 
+    visualizations as they are in the report. (libraries: pandas, numpy, matplotlib, nltk, sklearn, collections, scipy).  If you're 
     just hoping to view the notebook (with visualizations), try this link:
-    https://nbviewer.jupyter.org/github/mfzimolzak/NBA2010s/blob/main/Source/report_with_code_and_vis.ipynb
+    https://nbviewer.org/github/mfzimolzak/Predicting-Text-Difficulty/blob/main/source/predicting_text_difficulty_master.ipynb
+    
+    predicting_text_difficulty_scratch.ipynb: contains scratch work used as a basis for the code master file (libraries: pandas, numpy, matplotlib, nltk,
+    sklearn, collections, scipy, pickle).
+    https://nbviewer.org/github/mfzimolzak/Predicting-Text-Difficulty/blob/main/source/predicting_text_difficulty_scratch.ipynb
 
-    aggregating_data.ipynb: contains the creation of our CSV files – involves HTML web scraping and the retrieval 
-    of JSON formatted data from an API (libraries: urllib, bs4, pandas, requests, json).
-
-    scrap_notebook.ipynb: contains preliminary analyses – a decent portion of this notebook is in 
-    report_with_code_and_vis.ipynb but there is some that did not make the final cut.  Fair warning, it is pretty 
-    hectic (libraries: pandas, numpy, altair, matplotlib, sklearn, seaborn).  If you're just hoping to view the 
-    notebook (with visualizations), try this link:
+    visualization_scratch.ipynb: contains a few visualizations used for analysis (libraries: pandas, numpy, matplotlib).
     https://nbviewer.jupyter.org/github/mfzimolzak/NBA2010s/blob/main/Source/scrap_notebook.ipynb
     
 
